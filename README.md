@@ -1,6 +1,6 @@
 # Ola! Sou Fernando.M.Aurelio
 Em 2022 dou começo em minha jornada na tecnologia da informação.
-Atualemte meu foco esta no Curso de Gestão em T.I, consiliando com estudos de HTML, CSS, JavaScript.
+Atualemte meu foco esta no Curso de Gestão em T.I, conciliando com estudos de HTML, CSS, JavaScript.
 
 Tenho Formação em Bacharel de Enfermagem. Autamente empreendo na area de impressão 3d.
 
