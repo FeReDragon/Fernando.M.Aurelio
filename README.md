@@ -21,6 +21,9 @@ Sou um profissional apaixonado por tecnologia, sempre em busca de novas ferramen
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)
+
 
 
 
