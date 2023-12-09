@@ -1,6 +1,6 @@
 
 # Olá, meu nome é Fernando Aurelio! 👋
-Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras. 
+Sou um desenvolvedor full-stack!!! 
 
 <div align="left">
   <div style="display: flex; flex-wrap: wrap;">
